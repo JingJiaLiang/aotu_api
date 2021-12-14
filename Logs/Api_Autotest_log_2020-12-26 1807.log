@@ -1,0 +1,15 @@
+Sat, 26 Dec 2020 18:07:11  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:13  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:13  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:13  myLogger.py  error [line:42] ERROR -------------断言失败-----------
+Sat, 26 Dec 2020 18:07:13  myLogger.py  error [line:42] ERROR -------------断言失败-----------
+Sat, 26 Dec 2020 18:07:13  myLogger.py  error [line:42] ERROR -------------断言失败-----------
+Sat, 26 Dec 2020 18:07:14  myLogger.py  info [line:36] INFO 当前请求为put
+Sat, 26 Dec 2020 18:07:14  myLogger.py  info [line:36] INFO 当前请求为put
+Sat, 26 Dec 2020 18:07:14  myLogger.py  info [line:36] INFO 当前请求为put
+Sat, 26 Dec 2020 18:07:14  myLogger.py  info [line:36] INFO 当前请求为put
+Sat, 26 Dec 2020 18:07:17  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:17  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:17  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:17  myLogger.py  info [line:36] INFO 当前请求为post
+Sat, 26 Dec 2020 18:07:17  myLogger.py  info [line:36] INFO 当前请求为post

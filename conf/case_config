@@ -1,0 +1,18 @@
+[MODE]
+mode={'login':"all"
+        'register':"[1,2,3,4]"
+        'recharge':"[1,2]"}
+[MYSQL]
+mysql={'host':"xxx",
+    'port':'80',
+    'username':"liangjiajing",
+    'password':"xxxx"}
+
+
+
+
+
+
+
+
+
